@@ -16,7 +16,7 @@ This project is a **Netflix landing page clone** built using **HTML and CSS**. I
 ## How to Run
 1. Clone this repository:
    ```sh
-   git clone [git@github.com:AhmedMuqawi/Netflix-landing-page.git](https://github.com/AhmedMuqawi/Netflix-landing-page.git)
+   git clone git@github.com:AhmedMuqawi/Netflix-landing-page.git
    ```
 2. Open `index.html` in your browser.
 
